@@ -9,26 +9,6 @@ file = "config/Adorn.json5"
 hash = "6c90f63175a0d64b53d763b490b9929d734730d2fef7b215cccf104c6a8d8dd2"
 
 [[files]]
-file = "config/NoChatReports/NCR-Client.json"
-hash = "bcda618c3d12260723dddcf6b15893d55ee7955d9347ef669004385c9bb3c61f"
-
-[[files]]
-file = "config/NoChatReports/NCR-Common.json"
-hash = "bbc93e6b3cb7a917334cbbb3d1b0775a1cb3244ebc2075e4fa1fb7420e32cea7"
-
-[[files]]
-file = "config/NoChatReports/NCR-Encryption.json"
-hash = "ba5e0e63cd9b06f69f19a66e99cd8f2d327421344123215c067a427a161558f1"
-
-[[files]]
-file = "config/NoChatReports/NCR-ServerWhitelist.json"
-hash = "fdf38fd061bb38e0389ffb008eb33f454f762e504080e8adf2ed5e3911554a8c"
-
-[[files]]
-file = "config/NoChatReports/README.md"
-hash = "c52b76ccad2bd1063a22c7f6bb9e7c5db6b00fb53a6fd605585972ee0e5fc01f"
-
-[[files]]
 file = "config/TabTPS/display-configs/default.conf"
 hash = "efcad42c15087e3ac549a9b4cd2c1c6fe5f09fe9249701f8f62655e33cb7bdfc"
 
@@ -45,28 +25,12 @@ file = "config/TabTPS/userdata/d9b9c3f4-1eee-4e8e-8ccf-c1421653c9f7.json"
 hash = "1968a20b3c90d81487dd259aefb3175efe265247756ac2814bfa1bb543c9aa64"
 
 [[files]]
-file = "config/appleskin.json5"
-hash = "ae87f2d1b38dfd4b1e0767dfeb539261deaaf4fd2eb73692afcbaac7147855b9"
-
-[[files]]
 file = "config/armor-stand-editor/config.json"
 hash = "75e769765b21cac8d527a1249286136e4f2301aec0169d0df59874a15c445c3e"
 
 [[files]]
-file = "config/authme.json5"
-hash = "abc3e0e4c6c3120dcbc22fecfae1966d0a040aa9464913fd2ff3aa5b1f606023"
-
-[[files]]
 file = "config/axesareweapons.json5"
 hash = "0d040c4d9c6dd0c6a8c3a9fb1404869b062a5d3952d606cd22b033cf04470ffe"
-
-[[files]]
-file = "config/blur.json"
-hash = "ea2820399d91db4dae84b60c35f112888c44d2125b3b8308915694e1c1e6b76f"
-
-[[files]]
-file = "config/bobby.conf"
-hash = "b53c14bbef682afb9ad89d42e06c06f093d63923661bb685f6686011f71bbb53"
 
 [[files]]
 file = "config/bwncr.toml"
@@ -75,10 +39,6 @@ hash = "4a3e5c2643b3e40f9a5edd3d540f788818dfdf382c19340393a47efefd52ecde"
 [[files]]
 file = "config/c2me.toml"
 hash = "79fb6dbee04e897e3b53d046b6841f2ab77d3057ed6bbc7ac93dba2ccf11642e"
-
-[[files]]
-file = "config/cameraoverhaul.json"
-hash = "1605ce71369f060ad1afc3d61b2e33eb628e341d1d25d2cc5bcec269e579a5be"
 
 [[files]]
 file = "config/campanion.json"
@@ -125,44 +85,12 @@ file = "config/combatroll/server.json5"
 hash = "e97fdce9c30a2945067d76aa001222363d3a428de62296604738cfa4434dff8b"
 
 [[files]]
-file = "config/create-client.toml"
-hash = "a96bf23d511274570acbe64764e41859e8c1bb8c44daf55202978cc29e80efbc"
-
-[[files]]
 file = "config/create-common.toml"
 hash = "76707e79487581023226b0da6124601d88d0dd46dedcbe889cd2248ea0ab4a2e"
 
 [[files]]
-file = "config/crowdin.txt"
-hash = "fadbd1094e4079597c631b59da43ea2e315aa610c47282045384e888894ecc41"
-
-[[files]]
-file = "config/cull-less-leaves.json"
-hash = "6bc92f3695f35c601c2adfa1f51e9f616df379288f2a260fd1f4011c5bad50ee"
-
-[[files]]
-file = "config/dynamicfps.toml"
-hash = "f5474c5f2aa9e04cc88211eb6c0b7c4d3835814ba7047252edf624355862caa6"
-
-[[files]]
-file = "config/entityculling.json"
-hash = "0c78e42bc9ee8629e05830c89b882382dfa24c772c9b5a16d91225e1c63b11ad"
-
-[[files]]
-file = "config/exordium.json"
-hash = "fa4e11ae6581c67e802f7295148e03100d340403682ee74eb272e73a84efd95d"
-
-[[files]]
 file = "config/extraalchemy.json"
 hash = "977f03455b4517949daa1848af0daff283e359ad4ec14487e8e49dfe16519a16"
-
-[[files]]
-file = "config/extrasounds.cache"
-hash = "e549186221a1e7067ad23b97a398dd81ac17b130f7dc687270e7964b729f612f"
-
-[[files]]
-file = "config/fabric/indigo-renderer.properties"
-hash = "0ef0eb76642ea41d9a22f4acd84fe3fafe52d86573923e2efc9fdf57f8dc8eb4"
 
 [[files]]
 file = "config/fabrishot.properties"
@@ -189,24 +117,12 @@ file = "config/interactic.json5"
 hash = "720111b282c3128b3bf9a4d04b4f831f32f51a2a7e04853b92bd18a04f2bce7a"
 
 [[files]]
-file = "config/iris.properties"
-hash = "7ca45e5edec1e317cc0a4c08e8230eb2c01a289d2afb3e3d1de407474ee1f68f"
-
-[[files]]
-file = "config/journeymap-server.json"
-hash = "2b77ff82093eb3698b79b2b953806855d1880d414544a8158f41b028d8e293ca"
-
-[[files]]
 file = "config/kiwi-client.toml"
 hash = "4a000a381aebc8feabe71f34e27a74586ba3e4b42aca19d9c38c1426bcae74c9"
 
 [[files]]
 file = "config/lambdabettergrass.toml"
 hash = "71f8657fa67d9b11264366d2e8726098d6d86887e63f14e2cbce82532a2f84be"
-
-[[files]]
-file = "config/lambdynlights.toml"
-hash = "b9d7dc72a6d8d6577fc5f5dc2d8485b529014a075bd6e7012e23216bc551786b"
 
 [[files]]
 file = "config/lithium.properties"
@@ -229,44 +145,8 @@ file = "config/notenoughanimations.json"
 hash = "d7645024f541857dfe9e097c45e1306274b6ec0f26dcd80cc888f9c701920205"
 
 [[files]]
-file = "config/notenoughcrashes.json"
-hash = "8deed1a37e1d8b3741c5059ec8351ab8855ea44614ae22b2c377f9d3c7b34aaf"
-
-[[files]]
-file = "config/ok_zoomer/config.toml"
-hash = "2c2dc382c687c3322b3d30870e8c004fc7aeee49d8ed51e99ccb3be202860aad"
-
-[[files]]
-file = "config/presencefootsteps/updater.json"
-hash = "1e7c61df09c105e1eeca8cf3dcbdfeb976700e9904bcb3983fc7791adb7fad2e"
-
-[[files]]
-file = "config/presencefootsteps/userconfig.json"
-hash = "48ef08ab73853cb275b23d6b3938b6fec3186b8e96ffcb26abeceb0efcbde398"
-
-[[files]]
-file = "config/quilt/qsl/registry.toml"
-hash = "5ef23446d609c713e513f80131eefadefe46bc3b016d58088b18a8ef88ee2217"
-
-[[files]]
 file = "config/repurposed_structures.json"
 hash = "14e4fe1ded11fa49bfc3479a8e7efdda0e5bc7333d6c9723b44c87306619d8ab"
-
-[[files]]
-file = "config/roughlyenoughitems/config.json5"
-hash = "33657d32c61a07457abf1f011c461355993cd90a89ee2ac16d57d3396f596183"
-
-[[files]]
-file = "config/roughlyenoughitems/hints.json"
-hash = "793b1c3ce954272303a1e17b07542beee924940a7f2375bdc615f0ceb39097fd"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin.properties"
-hash = "4af27d13b8e40ac5898b1982f51e06e15a45cc58d3a6ce4c848d90600374256b"
-
-[[files]]
-file = "config/roughlyenoughitems/pinyin_double.properties"
-hash = "d215412b4a0b157a97859f45d22ac18584f061a6dda7e122f3bb6f8ae2589822"
 
 [[files]]
 file = "config/rrp.properties"
@@ -275,10 +155,6 @@ hash = "7e5beb923c78ce4582d523b7629e26c6ce0f4a33d24a4cf027ba9d6b8a332915"
 [[files]]
 file = "config/servercore.toml"
 hash = "89c3be65d25a37fe47bc9d74d8552c592795dc0a13f5d7f85a016708a42db538"
-
-[[files]]
-file = "config/skinlayers.json"
-hash = "55e1e98eae07027f2e91e6ba4f6cfd9973e61461a2bb3e30fb58e0648a55275c"
 
 [[files]]
 file = "config/smoothboot.json"
@@ -309,36 +185,8 @@ file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
-file = "config/sodium-options.json"
-hash = "52fa21d31fc7a3f71311430a38f783f63923ebe84fc19823b7a5c2a087a45cf7"
-
-[[files]]
-file = "config/sound_physics_remastered/occlusion.properties"
-hash = "ce4a315997b5fb00fa7108059a788fc6ea5f4071850e361101bdf98967a865df"
-
-[[files]]
-file = "config/sound_physics_remastered/reflectivity.properties"
-hash = "8bce7206a5882f2884111cf738d4018d2e6ee740e5baa7d33177b8045f81c079"
-
-[[files]]
-file = "config/sound_physics_remastered/soundphysics.properties"
-hash = "794335c023fea7291ce7afa9a6f044b692f15685cfdf18c85c14ee226e399638"
-
-[[files]]
-file = "config/spark/activity.json"
-hash = "28acf68371bdf4ed6f8f3599f222fe84007bd5c6438ae976cc015602d929e65f"
-
-[[files]]
-file = "config/spark/config.json"
-hash = "992ba9f3a4a7ce3de112eb95575328956fdc3ce6781c455ebce7b23db7e7da42"
-
-[[files]]
-file = "config/spark/tmp/about.txt"
-hash = "8057ccf4540ea269b0fc332225859f44d8f3a55d891fa2e7a3447b6202658d2a"
-
-[[files]]
 file = "config/tr7zwDonorSettings.json"
-hash = "b4f660488920eac2dffd3c2208d281e92e1444e6f9c7808461a2687347c787d5"
+hash = "00c5704f0bf0b89f14d7b8eba4eeb38199bc760f4d00dd78a2c2bcf32747c009"
 
 [[files]]
 file = "config/twigs/twigs_world_gen_replacements.json"
@@ -347,10 +195,6 @@ hash = "e9d95c9d11d7a48b95e085a8001ce0c7252e34abe6a7d1fae4a219bebf1f24e1"
 [[files]]
 file = "config/twigs/twigs_world_gen_replacements.json_old"
 hash = "e9d95c9d11d7a48b95e085a8001ce0c7252e34abe6a7d1fae4a219bebf1f24e1"
-
-[[files]]
-file = "config/vmp.properties"
-hash = "f8e71c0b80e2760c89354aa006bdcb996d437188bebcb1896cb249a9ef8f3ece"
 
 [[files]]
 file = "config/waterdripsound.json"
@@ -807,5 +651,5 @@ metafile = true
 
 [[files]]
 file = "shaderpacks/complementary-shaders.pw.toml"
-hash = "de8ce62392e1bdcd03b431dc98aece1f3fece69d6d4393cf9c9c28596a0ec16a"
+hash = "5ec01bed10e85e769a79a697b98797d07cfc4536c0349101751cfe23f6c791f2"
 metafile = true
