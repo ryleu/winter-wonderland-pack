@@ -1,0 +1,54 @@
+[
+  {
+    "user": {
+      "type": "player",
+      "name": "ryleu",
+      "uniqueId": "d9b9c3f4-1eee-4e8e-8ccf-c1421653c9f7"
+    },
+    "time": 1670912093807,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/jGhPE5ODE5"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ryleu",
+      "uniqueId": "d9b9c3f4-1eee-4e8e-8ccf-c1421653c9f7"
+    },
+    "time": 1670911774124,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/POpjDSRRcB"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ryleu",
+      "uniqueId": "d9b9c3f4-1eee-4e8e-8ccf-c1421653c9f7"
+    },
+    "time": 1670910897869,
+    "type": "Profiler",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/dBKQOhvdqO"
+    }
+  },
+  {
+    "user": {
+      "type": "player",
+      "name": "ryleu",
+      "uniqueId": "d9b9c3f4-1eee-4e8e-8ccf-c1421653c9f7"
+    },
+    "time": 1670910662416,
+    "type": "Heap dump summary",
+    "data": {
+      "type": "url",
+      "value": "https://spark.lucko.me/wwALExaCuZ"
+    }
+  }
+]

@@ -1,0 +1,13 @@
+name = "Snowy Spirit"
+filename = "snowyspirit-1.19.2-2.0.12-fabric.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "e1f3d234c2a59cf88dc136061d32495c48af0540"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4123443
+project-id = 566142
