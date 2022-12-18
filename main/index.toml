@@ -349,11 +349,6 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
-file = "mods/combat-roll.pw.toml"
-hash = "99a341554fb3f1d6a74f3af7cdb4872185fa718597b5774b4eca56ae160c71a0"
-metafile = true
-
-[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
 metafile = true
