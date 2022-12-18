@@ -178,7 +178,7 @@ hash = "ac33ee3307d1f74a544faf4bc32f9610517f2adf21172ca10f3ac66190ffc922"
 
 [[files]]
 file = "config/snowyspirit-common.json"
-hash = "fb62f52593c78b2c2799e7b1313e75b58d801c06c19c854cfa21d18e96744ec3"
+hash = "bb7e20c92debcdc3010ef85abfc8a0dc4b19ac7d4cf2237952f8b826412c39c2"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -203,6 +203,30 @@ hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 [[files]]
 file = "config/winterly.json"
 hash = "de0b351e57a729d1d6d6d3c997fceea9c30fe0d18c89c7813789a96abcba0068"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland/data/noel/recipes/candy_cane.json"
+hash = "cc7d94da7b019d1eda1427154c232e604a857e212eed78d2149b70f2d3f5b235"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland/data/noel/recipes/candy_cane_from_block.json"
+hash = "37e2ec21cc7e5cef909e7aba28828d4692477b5086c33418b9b5fc86c61fa41d"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland/data/noel/recipes/peppermint_candy.json"
+hash = "8c70fcf81633cddae52acd782fd842f4439df88eaa0bff17f8be6e578789a63b"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland/data/noel/recipes/peppermint_log.json"
+hash = "5050e3b9526950a47fc55e1101099c7664da7d8a51be43f00c75028df5953630"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland/data/snowyspirit/recipes/candy_cane.json"
+hash = "6578571b879eea9475d3c86fd1690f1116bcff538c83b4c54fe65969a855a632"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland/pack.mcmeta"
+hash = "3cec0fd20c9188a68f2ffe1026364348f276f2acdeabc0eeaa112de9badab3a3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -257,6 +281,11 @@ metafile = true
 [[files]]
 file = "mods/better-beds.pw.toml"
 hash = "112cb3b761a4ef017c2123fe61c0bcd0425d67ecbbc77ea76dd4f9c6842312bf"
+metafile = true
+
+[[files]]
+file = "mods/better-combat.pw.toml"
+hash = "8a20604524f45cf945ecc569c705bad494d10cb8c2a176992350be788d3a2319"
 metafile = true
 
 [[files]]
@@ -405,6 +434,11 @@ hash = "8c10fa17106ed185681482ce57aedb75e99507227aae90461df590ae3e756a0d"
 metafile = true
 
 [[files]]
+file = "mods/globalpacks.pw.toml"
+hash = "d95e508337c913a6f339f08f8cb34a6b2500959204f7e742c49e26f93e0a8060"
+metafile = true
+
+[[files]]
 file = "mods/i-know-what-im-doing.pw.toml"
 hash = "4191daf9db203945cd504e0489ce9008f718bb69fa8ce36cf3847ab28f05355c"
 metafile = true
@@ -492,6 +526,11 @@ metafile = true
 [[files]]
 file = "mods/no-chat-reports.pw.toml"
 hash = "1aa7510ec1a3994273a20f8b341f676583b9ede2eaea3badd46deb7178d92a6c"
+metafile = true
+
+[[files]]
+file = "mods/noel-christmas-mod.pw.toml"
+hash = "ebb48f3d8dec65e456607001fb8f1278985b03dfdceff104dda3566b3c38d921"
 metafile = true
 
 [[files]]
@@ -622,6 +661,11 @@ metafile = true
 [[files]]
 file = "mods/tabtps.pw.toml"
 hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
+metafile = true
+
+[[files]]
+file = "mods/toms-storage.pw.toml"
+hash = "4d817fb45630a8ea31f6f37ea93eacfdfd30cc8281f8cf4f93a039da4cea988e"
 metafile = true
 
 [[files]]
