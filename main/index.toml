@@ -425,7 +425,7 @@ metafile = true
 
 [[files]]
 file = "mods/frostiful.pw.toml"
-hash = "8c10fa17106ed185681482ce57aedb75e99507227aae90461df590ae3e756a0d"
+hash = "5fd9a1209e8f976eff26546274dac1f358caa143d20452b59e180cb5aefcb099"
 metafile = true
 
 [[files]]
@@ -620,7 +620,7 @@ metafile = true
 
 [[files]]
 file = "mods/snowy-spirit.pw.toml"
-hash = "fbbe9955f4b6d21334cfe712dd0ea203fca47f1a02c754b71474507dbf28946f"
+hash = "70aee0139c48e3e0bc9f0d112783c4f96d18303b720572e763c83e2c8f8683e4"
 metafile = true
 
 [[files]]
