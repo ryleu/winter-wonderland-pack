@@ -1,0 +1,6 @@
+{
+    "type": "minecraft:crafting_shapeless",
+    "group": "candy_cane",
+    "ingredients": [{ "item": "minecraft:air" }],
+    "result": { "item": "minecraft:barrier" }
+}

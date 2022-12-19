@@ -1,0 +1,23 @@
+{
+    "type": "minecraft:crafting_shaped",
+    
+    "pattern":
+    [
+        "CC",
+        "CC"
+    ],
+    
+    "key":
+    {
+        "C":
+        {
+            "item": "winterly:red_candy_cane"
+        }
+    },
+    
+    "result":
+    {
+        "item": "noel:peppermint_log",
+        "count": 1
+    }
+}

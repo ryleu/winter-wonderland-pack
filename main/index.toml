@@ -185,28 +185,32 @@ file = "config/winterly.json"
 hash = "090edc1d41c3086d47011b2604f613c31f1bec18f28cb1a98667fca0099cce8b"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-frost-resistant-armors/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_boots.json"
-hash = "6a5104fe3857586abdfa857479ba6b9108e1f7ef28842f21e86b92e407d82097"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_boots.json"
+hash = "d30e02477055f8d3f281d6342902f8d8ec9e23216d38aa6eee2d0c568ad97839"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-frost-resistant-armors/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_chestplate.json"
-hash = "3f0b6a403d7e0cea749838e49e51a7a3d3536e73682f953880bd8bcc78755110"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_chestplate.json"
+hash = "5af459bcf17ac04430a47685cd7230d7addcc89712474a9c3e138e07baa20e0f"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-frost-resistant-armors/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_helmet.json"
-hash = "4d01ad5aa0827ee96f4a8bb264234850d03af857148c6be9edba011143e7bab1"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_helmet.json"
+hash = "21bcaf97e12ea38d0627741997e516d2d0f9a1de6ff386fa7c15dc96ca6565b0"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-frost-resistant-armors/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_leggings.json"
-hash = "beed11a46f2dfa84ff1e9f32e13a213d94212c90eb80b1e458ee59ef5f03f491"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_leggings.json"
+hash = "1d7a4285beb67546558eb5933a45d5c3376619426db59f258f829846a0362a34"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-frost-resistant-armors/pack.mcmeta"
-hash = "fd011a2794b54c7fc61be856c1b3c03ee5ea4c2cda82623e596c0e5e24c7d682"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/qu-enchantments/tags/entity_types/nightblood_immune_entities.json"
+hash = "59f0b79c715ad5426c65995982bc69908c9c47a64da6d7dc6a461580e9b7334b"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/pack.mcmeta"
+hash = "fb7776fde62a804d261c69b893bbd4c48d7587237d1ab646d83346efff449648"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-hot-drinks/data/hot_drinks/functions/drink_hot_drink.mcfunction"
-hash = "6cbca889eea735cea710d3603be62ee0f9621570c31ee7e8fbcf3350b2642b0f"
+hash = "33d8f52ea915819fb40de71dc39fb0b5b06c9bb02cc38b926015231ca8fbbd94"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-hot-drinks/data/hot_drinks/functions/load.mcfunction"
