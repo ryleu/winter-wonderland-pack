@@ -4,5 +4,5 @@ noMicrosoftTelemetry = true
 
 [debug]
 tagsTooltip = true
-debugTooltipMsg = true
-NBTTooltip = true
+debugTooltipMsg = false
+NBTTooltip = false
