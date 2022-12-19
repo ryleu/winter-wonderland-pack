@@ -225,23 +225,23 @@ file = "global_packs/required_data/frost-resistant-armors/pack.mcmeta"
 hash = "fd011a2794b54c7fc61be856c1b3c03ee5ea4c2cda82623e596c0e5e24c7d682"
 
 [[files]]
-file = "global_packs/required_data/hot_drinks/data/hot_drinks/functions/drink_hot_drink.mcfunction"
+file = "global_packs/required_data/hot-drinks/data/hot_drinks/functions/drink_hot_drink.mcfunction"
 hash = "6b51f73f733e42135bd7959583cbda4e1901efa619f28902900595e0db914f65"
 
 [[files]]
-file = "global_packs/required_data/hot_drinks/data/hot_drinks/functions/load.mcfunction"
+file = "global_packs/required_data/hot-drinks/data/hot_drinks/functions/load.mcfunction"
 hash = "feb0f34007634c2222aed8f9b7e7874ca50b8570634de67f9633f04b900364f4"
 
 [[files]]
-file = "global_packs/required_data/hot_drinks/data/hot_drinks/functions/tick.mcfunction"
+file = "global_packs/required_data/hot-drinks/data/hot_drinks/functions/tick.mcfunction"
 hash = "0988539d95f080fa6ff3d4bcb5689fb70732d4406c23667fd8d35d29292813ae"
 
 [[files]]
-file = "global_packs/required_data/hot_drinks/data/minecraft/tags/functions/load.json"
+file = "global_packs/required_data/hot-drinks/data/minecraft/tags/functions/load.json"
 hash = "3297b32da9725566947bb5a009966b3885db4cc734b19f907464f8043182dd25"
 
 [[files]]
-file = "global_packs/required_data/hot_drinks/pack.mcmeta"
+file = "global_packs/required_data/hot-drinks/pack.mcmeta"
 hash = "36e96df12e6e61059696d0ed2632254fd0ed733c2953746577d42d640fa919df"
 
 [[files]]
