@@ -312,6 +312,11 @@ hash = "05ad8e917843bc4cb4e7a6ba40fcfe07051b60d201d3aa54fab72cc50cc51ed2"
 metafile = true
 
 [[files]]
+file = "mods/artifacts.pw.toml"
+hash = "bf2adb4aeefb2c2f68002ff2f74e38c2a1e26b57c65977f12c68ae0a1c7bef0b"
+metafile = true
+
+[[files]]
 file = "mods/auth-me.pw.toml"
 hash = "b119ad0ab00cff9062b29233e4f452d21f9ce690b53426e235670d54d84ac812"
 metafile = true
@@ -499,6 +504,11 @@ metafile = true
 [[files]]
 file = "mods/indium.pw.toml"
 hash = "e8168531c092676d47cac3657bfc525f096f11ff5372ce6e322ad57778b81635"
+metafile = true
+
+[[files]]
+file = "mods/inmis.pw.toml"
+hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
 metafile = true
 
 [[files]]
