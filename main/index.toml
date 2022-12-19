@@ -205,6 +205,26 @@ file = "config/winterly.json"
 hash = "de0b351e57a729d1d6d6d3c997fceea9c30fe0d18c89c7813789a96abcba0068"
 
 [[files]]
+file = "global_packs/required_data/frost-resistant-armors/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_boots.json"
+hash = "6a5104fe3857586abdfa857479ba6b9108e1f7ef28842f21e86b92e407d82097"
+
+[[files]]
+file = "global_packs/required_data/frost-resistant-armors/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_chestplate.json"
+hash = "3f0b6a403d7e0cea749838e49e51a7a3d3536e73682f953880bd8bcc78755110"
+
+[[files]]
+file = "global_packs/required_data/frost-resistant-armors/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_helmet.json"
+hash = "4d01ad5aa0827ee96f4a8bb264234850d03af857148c6be9edba011143e7bab1"
+
+[[files]]
+file = "global_packs/required_data/frost-resistant-armors/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_leggings.json"
+hash = "beed11a46f2dfa84ff1e9f32e13a213d94212c90eb80b1e458ee59ef5f03f491"
+
+[[files]]
+file = "global_packs/required_data/frost-resistant-armors/pack.mcmeta"
+hash = "fd011a2794b54c7fc61be856c1b3c03ee5ea4c2cda82623e596c0e5e24c7d682"
+
+[[files]]
 file = "global_packs/required_data/hot_drinks/data/hot_drinks/functions/drink_hot_drink.mcfunction"
 hash = "6b51f73f733e42135bd7959583cbda4e1901efa619f28902900595e0db914f65"
 
@@ -225,28 +245,28 @@ file = "global_packs/required_data/hot_drinks/pack.mcmeta"
 hash = "36e96df12e6e61059696d0ed2632254fd0ed733c2953746577d42d640fa919df"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland/data/noel/recipes/candy_cane.json"
+file = "global_packs/required_data/recipe-conflicts/data/noel/recipes/candy_cane.json"
 hash = "cc7d94da7b019d1eda1427154c232e604a857e212eed78d2149b70f2d3f5b235"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland/data/noel/recipes/candy_cane_from_block.json"
+file = "global_packs/required_data/recipe-conflicts/data/noel/recipes/candy_cane_from_block.json"
 hash = "37e2ec21cc7e5cef909e7aba28828d4692477b5086c33418b9b5fc86c61fa41d"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland/data/noel/recipes/peppermint_candy.json"
+file = "global_packs/required_data/recipe-conflicts/data/noel/recipes/peppermint_candy.json"
 hash = "8c70fcf81633cddae52acd782fd842f4439df88eaa0bff17f8be6e578789a63b"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland/data/noel/recipes/peppermint_log.json"
+file = "global_packs/required_data/recipe-conflicts/data/noel/recipes/peppermint_log.json"
 hash = "5050e3b9526950a47fc55e1101099c7664da7d8a51be43f00c75028df5953630"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland/data/snowyspirit/recipes/candy_cane.json"
+file = "global_packs/required_data/recipe-conflicts/data/snowyspirit/recipes/candy_cane.json"
 hash = "6578571b879eea9475d3c86fd1690f1116bcff538c83b4c54fe65969a855a632"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland/pack.mcmeta"
-hash = "3cec0fd20c9188a68f2ffe1026364348f276f2acdeabc0eeaa112de9badab3a3"
+file = "global_packs/required_data/recipe-conflicts/pack.mcmeta"
+hash = "11ddfcb4a874aac643fd2df08b3f4a19f37e370d3aaded9790db00810b66cfb3"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
@@ -660,7 +680,7 @@ metafile = true
 
 [[files]]
 file = "mods/sound-physics-remastered.pw.toml"
-hash = "53843b76c33ecf7910248cd1c941920adf23f81130a9155997d911199dce0816"
+hash = "08d9f157fea976ba8e7a20ebfce995fe5419ebddf581fcdab079aaceb33053e3"
 metafile = true
 
 [[files]]
