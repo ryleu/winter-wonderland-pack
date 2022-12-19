@@ -344,11 +344,6 @@ hash = "33d8e4f2b5e3546f8dd4df0aadcc374b2b1e811f456bdea741dc53b94ac22f11"
 metafile = true
 
 [[files]]
-file = "mods/bouncy-life.pw.toml"
-hash = "cfa0543e0c992a6176ceb756cced79df277b7b177f3ab265ef0559f01822f854"
-metafile = true
-
-[[files]]
 file = "mods/c2me-fabric.pw.toml"
 hash = "01ab4442937c2d1f582722d139c0d02b3fc36c61a3eeebb4e81bd5256b7d8470"
 metafile = true
