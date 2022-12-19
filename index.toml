@@ -201,64 +201,56 @@ file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/fros
 hash = "1d7a4285beb67546558eb5933a45d5c3376619426db59f258f829846a0362a34"
 
 [[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/minecraft/tags/functions/load.json"
+hash = "f3e0542d0acd32bae7c7f0fa82258a31d6414726009590cb2434be6d5054063e"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/noel/recipes/candy_cane.json"
+hash = "cc7d94da7b019d1eda1427154c232e604a857e212eed78d2149b70f2d3f5b235"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/noel/recipes/candy_cane_from_block.json"
+hash = "37e2ec21cc7e5cef909e7aba28828d4692477b5086c33418b9b5fc86c61fa41d"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/noel/recipes/peppermint_candy.json"
+hash = "8c70fcf81633cddae52acd782fd842f4439df88eaa0bff17f8be6e578789a63b"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/noel/recipes/peppermint_log.json"
+hash = "5050e3b9526950a47fc55e1101099c7664da7d8a51be43f00c75028df5953630"
+
+[[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/qu-enchantments/tags/entity_types/nightblood_immune_entities.json"
 hash = "59f0b79c715ad5426c65995982bc69908c9c47a64da6d7dc6a461580e9b7334b"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-additional-tweaks/pack.mcmeta"
-hash = "fb7776fde62a804d261c69b893bbd4c48d7587237d1ab646d83346efff449648"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-hot-drinks/data/hot_drinks/functions/drink_hot_drink.mcfunction"
-hash = "33d8f52ea915819fb40de71dc39fb0b5b06c9bb02cc38b926015231ca8fbbd94"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-hot-drinks/data/hot_drinks/functions/load.mcfunction"
-hash = "2494e03b208cba4c248016fe5ae865f646cef57bc430508043d00ecbf934ba77"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-hot-drinks/data/hot_drinks/functions/tick.mcfunction"
-hash = "a4934ab5b7cbf8e6cbbb5f506998852d2c91bfd958b788fee44ab306fbb2ba5d"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-hot-drinks/data/minecraft/tags/functions/load.json"
-hash = "3297b32da9725566947bb5a009966b3885db4cc734b19f907464f8043182dd25"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-hot-drinks/pack.mcmeta"
-hash = "36e96df12e6e61059696d0ed2632254fd0ed733c2953746577d42d640fa919df"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-recipes/data/noel/recipes/candy_cane.json"
-hash = "cc7d94da7b019d1eda1427154c232e604a857e212eed78d2149b70f2d3f5b235"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-recipes/data/noel/recipes/candy_cane_from_block.json"
-hash = "37e2ec21cc7e5cef909e7aba28828d4692477b5086c33418b9b5fc86c61fa41d"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-recipes/data/noel/recipes/peppermint_candy.json"
-hash = "8c70fcf81633cddae52acd782fd842f4439df88eaa0bff17f8be6e578789a63b"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-recipes/data/noel/recipes/peppermint_log.json"
-hash = "5050e3b9526950a47fc55e1101099c7664da7d8a51be43f00c75028df5953630"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-recipes/data/snowyspirit/recipes/candy_cane.json"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/candy_cane.json"
 hash = "6578571b879eea9475d3c86fd1690f1116bcff538c83b4c54fe65969a855a632"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-recipes/data/winterwonderland/recipes/frostiful_to_winterly_icicles.json"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/drink_hot_drink.mcfunction"
+hash = "33d8f52ea915819fb40de71dc39fb0b5b06c9bb02cc38b926015231ca8fbbd94"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/load.mcfunction"
+hash = "2494e03b208cba4c248016fe5ae865f646cef57bc430508043d00ecbf934ba77"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/tick.mcfunction"
+hash = "6d59030c7e1b87cdc7d279ee74a473588e0c7460aa4b217f5286bc63cfa5bd60"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/frostiful_to_winterly_icicles.json"
 hash = "d590f3575d6cec4019caeb8c708e07830b0c34075ea3611e4a547bbb9ebb246d"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-recipes/data/winterwonderland/recipes/winterly_to_frostiful_icicles.json"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/winterly_to_frostiful_icicles.json"
 hash = "92b8b55146b5baa48638c2327a3ece7714a61c8e4736ce6169194aa1debbbf0e"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-recipes/pack.mcmeta"
-hash = "05376b6542b9fca9250862b3f04807af04a09004bb7d8c834755e80ad4d73f5c"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/pack.mcmeta"
+hash = "fa98f9b02dde17a72af4afbfa8d205a38e78db9c031d0bee15e595d9819fdf51"
 
 [[files]]
 file = "mods/3dskinlayers.pw.toml"
