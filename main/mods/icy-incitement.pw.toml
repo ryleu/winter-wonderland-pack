@@ -1,0 +1,13 @@
+name = "Icy Incitement"
+filename = "icy-incitement-1.1.4+1.19.x.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Zj1ND0rS/versions/1.1.4%2B1.19.x/icy-incitement-1.1.4%2B1.19.x.jar"
+hash-format = "sha1"
+hash = "291a3946c925daed2a6bab5951e26e7aac6c6484"
+
+[update]
+[update.modrinth]
+mod-id = "Zj1ND0rS"
+version = "7RTNQXWP"

@@ -1,0 +1,13 @@
+name = "Kiwi 🥝"
+filename = "Kiwi-1.19.1-fabric-8.1.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/ufdDoWPd/versions/f4ESvoJk/Kiwi-1.19.1-fabric-8.1.2.jar"
+hash-format = "sha1"
+hash = "12520c5803a4a55755cb954b4d8d4e5ee81bf726"
+
+[update]
+[update.modrinth]
+mod-id = "ufdDoWPd"
+version = "f4ESvoJk"
