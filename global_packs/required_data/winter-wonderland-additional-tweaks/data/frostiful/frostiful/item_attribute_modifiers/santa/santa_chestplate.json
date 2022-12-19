@@ -1,12 +1,12 @@
 {
-	"item": "noel:santa_leggings",
-	"slot": "legs",
+	"item": "noel:santa_chestplate",
+	"slot": "chest",
 	"attribute_modifiers": [
 		{
 			"attribute": "frostiful:generic.frost_resistance",
 			"modifier": {
-				"uuid": "998a8cb8-b6d7-4703-b4e6-dabff1866d4b",
-				"value": 1.0,
+				"uuid": "f4c30d17-4b02-4707-91fc-0980594a390c",
+				"value": 4.0,
 				"operation": "addition"
 			}
 		}
