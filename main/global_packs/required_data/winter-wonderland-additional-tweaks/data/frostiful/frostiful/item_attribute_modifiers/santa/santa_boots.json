@@ -1,0 +1,14 @@
+{
+	"item": "noel:santa_boots",
+	"slot": "feet",
+	"attribute_modifiers": [
+		{
+			"attribute": "frostiful:generic.frost_resistance",
+			"modifier": {
+				"uuid": "f3db2ea2-35a1-4e1d-95e8-643690f03259",
+				"value": 1.0,
+				"operation": "addition"
+			}
+		}
+	]
+}

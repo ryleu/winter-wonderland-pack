@@ -1,0 +1,13 @@
+name = "Winter Wonderland Pack"
+author = "ryleu"
+version = "1.0.0"
+pack-format = "packwiz:1.1.0"
+
+[index]
+file = "index.toml"
+hash-format = "sha256"
+hash = "9b21c01336808b1e3cfd09295253eddd4b37a26854b05cfcdb1d2bcc3eca8629"
+
+[versions]
+minecraft = "1.19.2"
+quilt = "0.17.7"
