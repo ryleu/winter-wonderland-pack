@@ -642,11 +642,6 @@ hash = "84183c4114749dd504581061775d5bb4e2126c26eb733bec503b1ace6044031d"
 metafile = true
 
 [[files]]
-file = "mods/smooth-swapping.pw.toml"
-hash = "85d71098e76e126de26c40543ebd506f100de842e5e801a0ecd6be669ed58429"
-metafile = true
-
-[[files]]
 file = "mods/smoothboot-fabric.pw.toml"
 hash = "971e8b0bef16bd6ce88c7f940b30fdc1debff7b715058f4d331d54beb58a4314"
 metafile = true
