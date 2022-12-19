@@ -226,15 +226,15 @@ hash = "fd011a2794b54c7fc61be856c1b3c03ee5ea4c2cda82623e596c0e5e24c7d682"
 
 [[files]]
 file = "global_packs/required_data/hot-drinks/data/hot_drinks/functions/drink_hot_drink.mcfunction"
-hash = "6b51f73f733e42135bd7959583cbda4e1901efa619f28902900595e0db914f65"
+hash = "73fd980e90caf004b2e7f1e696dad87d88d3acdf315098fa70b735b4a05a0b96"
 
 [[files]]
 file = "global_packs/required_data/hot-drinks/data/hot_drinks/functions/load.mcfunction"
-hash = "feb0f34007634c2222aed8f9b7e7874ca50b8570634de67f9633f04b900364f4"
+hash = "1206acfad90166285e1e2b867e652f34eb641d934945d82fd5ecd5a152fddb0b"
 
 [[files]]
 file = "global_packs/required_data/hot-drinks/data/hot_drinks/functions/tick.mcfunction"
-hash = "0988539d95f080fa6ff3d4bcb5689fb70732d4406c23667fd8d35d29292813ae"
+hash = "993e421ac9171c5b0d3f59514e059f83390ec1750f3a85c1f23fa2230d60d8f3"
 
 [[files]]
 file = "global_packs/required_data/hot-drinks/data/minecraft/tags/functions/load.json"
