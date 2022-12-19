@@ -6,8 +6,8 @@
   "generateFrozenGrass": true,
   "generateFrozenFlowers": true,
   "mobDecorations": {
-    "enabled": false,
-    "onlyInWinter": true,
+    "enabled": true,
+    "onlyInWinter": false,
     "chance": 15
   }
 }

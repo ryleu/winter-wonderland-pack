@@ -39,10 +39,10 @@
     "campfireWarmthTime": 1200
   },
   "icicleConfig": {
-    "becomeUnstableChance": 0.05,
-    "growChance": 0.02,
-    "growChanceDuringRain": 0.09,
-    "growChanceDuringThunder": 0.15,
+    "becomeUnstableChance": 0,
+    "growChance": 0,
+    "growChanceDuringRain": 0,
+    "growChanceDuringThunder": 0,
     "frostArrowFreezeAmount": 1000,
     "icicleCollisionFreezeAmount": 3000
   }
