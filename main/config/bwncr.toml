@@ -1,7 +1,7 @@
 [general]
 silenceWither = true
 silenceTrader = true
-silenceDragon = true
+silenceDragon = false
 silenceLightning = true
 silenceUs = []
 debugMode = false

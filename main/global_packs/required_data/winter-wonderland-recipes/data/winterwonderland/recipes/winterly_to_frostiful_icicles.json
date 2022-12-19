@@ -1,0 +1,13 @@
+{
+    "type": "minecraft:crafting_shapeless",
+	"ingredients": [
+		{
+			"item": "winterly:icicle"
+		}
+	],
+    "result":
+    {
+        "item": "frostiful:icicle",
+        "count": 1
+    }
+}

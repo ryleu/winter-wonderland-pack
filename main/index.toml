@@ -30,11 +30,11 @@ hash = "75e769765b21cac8d527a1249286136e4f2301aec0169d0df59874a15c445c3e"
 
 [[files]]
 file = "config/axesareweapons.json5"
-hash = "0d040c4d9c6dd0c6a8c3a9fb1404869b062a5d3952d606cd22b033cf04470ffe"
+hash = "624173d40f03e3c3fe801de8cf6e1b363f2bf625edb14d26d226fd0b626a33fc"
 
 [[files]]
 file = "config/bwncr.toml"
-hash = "4a3e5c2643b3e40f9a5edd3d540f788818dfdf382c19340393a47efefd52ecde"
+hash = "9ed2a62329df506d0f4a7cfe789b104666594154715c7beed9c0084cd78f935c"
 
 [[files]]
 file = "config/c2me.toml"
@@ -42,7 +42,7 @@ hash = "79fb6dbee04e897e3b53d046b6841f2ab77d3057ed6bbc7ac93dba2ccf11642e"
 
 [[files]]
 file = "config/campanion.json"
-hash = "256e6f1c80b8bddf8ebba8d4aacfb769c046c5b688201be5ccaf7bb29d657d80"
+hash = "4fdaba16469ef05113c60d6d0aee2eb52371d53f41b29cafc3635706459fb6c1"
 
 [[files]]
 file = "config/cardinal-components-api.properties"
@@ -67,22 +67,6 @@ hash = "d2330ec90f55427e4e995b971ab7799200e115fcf3d9e8d63000c67f04e6a13a"
 [[files]]
 file = "config/clickthrough.json"
 hash = "fd07fba9d027fdb082139074ee6adc1a1278891ae19dbb1e1417edda0e0b35ea"
-
-[[files]]
-file = "config/combatroll/client.json5"
-hash = "ffca3f14c14d4042cc2aed4f0d69d152be8ca91e008f4d51c4c914cdb462676f"
-
-[[files]]
-file = "config/combatroll/enchantments.json"
-hash = "b807ca9ebe5ca5e45c8367b08cb97a08aa73181b66da4ab7c9f92e02200ca01e"
-
-[[files]]
-file = "config/combatroll/hud_config.json"
-hash = "f619cf9c77091bdb3218fc0af71309680b27be3f8ea43ef955dd9b34a9fdf679"
-
-[[files]]
-file = "config/combatroll/server.json5"
-hash = "e97fdce9c30a2945067d76aa001222363d3a428de62296604738cfa4434dff8b"
 
 [[files]]
 file = "config/create-common.toml"
@@ -193,10 +177,6 @@ file = "config/twigs/twigs_world_gen_replacements.json"
 hash = "e9d95c9d11d7a48b95e085a8001ce0c7252e34abe6a7d1fae4a219bebf1f24e1"
 
 [[files]]
-file = "config/twigs/twigs_world_gen_replacements.json_old"
-hash = "e9d95c9d11d7a48b95e085a8001ce0c7252e34abe6a7d1fae4a219bebf1f24e1"
-
-[[files]]
 file = "config/waterdripsound.json"
 hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
@@ -265,11 +245,11 @@ file = "global_packs/required_data/winter-wonderland-recipes/data/snowyspirit/re
 hash = "6578571b879eea9475d3c86fd1690f1116bcff538c83b4c54fe65969a855a632"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-recipes/data/winterwonderland/frostiful_to_winterly_icicles.json"
+file = "global_packs/required_data/winter-wonderland-recipes/data/winterwonderland/recipes/frostiful_to_winterly_icicles.json"
 hash = "d590f3575d6cec4019caeb8c708e07830b0c34075ea3611e4a547bbb9ebb246d"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-recipes/data/winterwonderland/winterly_to_frostiful_icicles.json"
+file = "global_packs/required_data/winter-wonderland-recipes/data/winterwonderland/recipes/winterly_to_frostiful_icicles.json"
 hash = "92b8b55146b5baa48638c2327a3ece7714a61c8e4736ce6169194aa1debbbf0e"
 
 [[files]]
