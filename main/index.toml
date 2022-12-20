@@ -201,26 +201,6 @@ file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/fros
 hash = "1d7a4285beb67546558eb5933a45d5c3376619426db59f258f829846a0362a34"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/frostiful/frostiful/item_attribute_modifiers/scarves/blue_scarf.json"
-hash = "5d0e19025a24543a868ab5082fe6f77cd51b04f3790b5a0c7637853363866b3a"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/frostiful/frostiful/item_attribute_modifiers/scarves/green_scarf.json"
-hash = "0b3abefdac8cd46395e8726c142489b8026027025e313ea1230a1dbb19d93c36"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/frostiful/frostiful/item_attribute_modifiers/scarves/rainbow_scarf.json"
-hash = "64d42033e4333456f55af801e59d328d81f2d18e0d94b23b298306654e1f2b73"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/frostiful/frostiful/item_attribute_modifiers/scarves/red_scarf.json"
-hash = "6bc9c5d91876e4c23de29a2efb44b29ef61ead8cc1aa5fafa3983a144de54082"
-
-[[files]]
-file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/frostiful/frostiful/item_attribute_modifiers/scarves/white_scarf.json"
-hash = "c1056d358ef8526533cd41ed5912ca48963e31bdcc8c56c5a81d68ea8ae03bd5"
-
-[[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/minecraft/loot_tables/entities/polar_bear.json"
 hash = "e8d2a13f22abdfd882be94756be5e662179c420a97e5da5077a5e5c9eb5a990a"
 
