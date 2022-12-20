@@ -39,6 +39,7 @@
     "campfireWarmthTime": 1200
   },
   "icicleConfig": {
+  	"iciclesFormInWeather": false,
     "becomeUnstableChance": 0,
     "growChance": 0,
     "growChanceDuringRain": 0,
