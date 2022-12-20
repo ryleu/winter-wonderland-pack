@@ -162,7 +162,7 @@ hash = "ac33ee3307d1f74a544faf4bc32f9610517f2adf21172ca10f3ac66190ffc922"
 
 [[files]]
 file = "config/snowyspirit-common.json"
-hash = "bb7e20c92debcdc3010ef85abfc8a0dc4b19ac7d4cf2237952f8b826412c39c2"
+hash = "e613e3cce136a08ea972a577ce57012056229dafbae34dc5a166e29b6c31158d"
 
 [[files]]
 file = "config/sodium-mixins.properties"
@@ -235,6 +235,74 @@ hash = "59f0b79c715ad5426c65995982bc69908c9c47a64da6d7dc6a461580e9b7334b"
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/candy_cane.json"
 hash = "6578571b879eea9475d3c86fd1690f1116bcff538c83b4c54fe65969a855a632"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_black.json"
+hash = "708a9010913ae8a8d7e27edb10ab9368b5437a0535198a49e12a2668795f36f4"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_blue.json"
+hash = "771cfe16b096dc9d5270a3b53fc173058d8d09b47b9c51e9c39766862a79fb04"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_brown.json"
+hash = "daa5a9449acf08917155e8bbf1ca500bdc885e31fdbed9c5edc2235fcac55176"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_cyan.json"
+hash = "e71938181b30e5fd2c4142d83dc55eaf113f06a253f0586b44845d15ecd87971"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_gray.json"
+hash = "e41dd871a09bdc809f15ec4c0fbb0ad6523ed3e41476bee65836b549fa8251c3"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_green.json"
+hash = "5732c543333d0d05252694fc25b977caf7f6fbca077ddefd077b607828584650"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_light_blue.json"
+hash = "f35a7913aea890eced3f83bdc2dfb2dcc7c3410262bab6420a69fb1b3d34245d"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_light_gray.json"
+hash = "5764041e14110c52ca6885cfd6393f57b63b72e36eb660a466a2b10c30e33240"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_lime.json"
+hash = "7ea41a40304e096d617aea2ff2bb25150fbad39250d25badc3c4cdf5f0fc1aaa"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_magenta.json"
+hash = "2a54a401d6cc93673304bb425c69a71e0277394e528deb6021c39cbc62809db2"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_orange.json"
+hash = "a4ddc06ff0195809074661846fc12bc2da16713d596b1e699a5593692c63b7d4"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_pink.json"
+hash = "a88397d1a8967402fd9c8e8be51dd9d66528881fd32c6a3a3190c4e6b4ea86b9"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_prismatic.json"
+hash = "135ebf850e5c616e61fd41d1f61e21cde63dc5110915c3634e157225b5cd68fb"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_purple.json"
+hash = "c3d5265c7c5c928745d6491de6e25f8eb8f2a96548b1372bd9f73bafdea828d9"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_red.json"
+hash = "1b6142feed7d20a92b9da06cf5c2e880493b5503b9119648e1c7bafff28620cd"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_white.json"
+hash = "da1c536fe249cfed1b9ea710b089aec5b95613ce95bfaf830f8aeaadc8e6bd48"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/glow_lights_yellow.json"
+hash = "1586a8838c18fbf04fb2dd25975e229d2574efa05a147e97d6336980bf9ecc5a"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/drink_hot_drink.mcfunction"

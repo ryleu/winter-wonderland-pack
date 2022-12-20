@@ -21,7 +21,7 @@
   "blocks_and_items": {
     "sleds": true,
     "gumdrops": true,
-    "glow_lights": true,
+    "glow_lights": false,
     "candy_cane": false,
     "ginger": true,
     "eggnog": true,
