@@ -90,7 +90,7 @@ hash = "aa84b01d7366b116d590d52adff2acef9212f9395eb53e9db9fa9090c6a9b02d"
 
 [[files]]
 file = "config/frostiful.json"
-hash = "1e8e5aedf0fe32a0e6647dbcd4c5ecb3b30d7a38626d45c61c9e4b8a493e4f1c"
+hash = "424a635d165ec861bf74640211a654a100edaad93abe0f52db6e8e754ebfb3a3"
 
 [[files]]
 file = "config/indium-renderer.properties"
