@@ -238,7 +238,7 @@ hash = "6578571b879eea9475d3c86fd1690f1116bcff538c83b4c54fe65969a855a632"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/drink_hot_drink.mcfunction"
-hash = "33d8f52ea915819fb40de71dc39fb0b5b06c9bb02cc38b926015231ca8fbbd94"
+hash = "9fb8cca526c7be6ca355306812f9d801f0c519844d45d3ff991195cd59da5c54"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/load.mcfunction"
