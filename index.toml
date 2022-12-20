@@ -363,6 +363,11 @@ hash = "8440097630bb5576edaf891db7490fe9e6a6c996670e6d25b6bd027712db6050"
 metafile = true
 
 [[files]]
+file = "mods/chunks-fade-in.pw.toml"
+hash = "b3f6ab1279c1d4f166ecedb854a8f44212be7795da22a439492308670614f0fa"
+metafile = true
+
+[[files]]
 file = "mods/cleardespawn.pw.toml"
 hash = "f55726e64eabcfdcb0b02657c74889f8e135a5424dc423c55450117618a2ad11"
 metafile = true
@@ -485,11 +490,6 @@ metafile = true
 [[files]]
 file = "mods/inmis.pw.toml"
 hash = "f33cb6b8cbbbe875d2e70d680658dd69b118aa0bed21e9b046e6958c5f4c5477"
-metafile = true
-
-[[files]]
-file = "mods/interactic.pw.toml"
-hash = "d4f85fc72da9cf35b73a202df5b2ac94fa6649bff03081111abfa3080e315969"
 metafile = true
 
 [[files]]
