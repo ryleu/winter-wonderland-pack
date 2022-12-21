@@ -325,6 +325,10 @@ file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snow
 hash = "1586a8838c18fbf04fb2dd25975e229d2574efa05a147e97d6336980bf9ecc5a"
 
 [[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/twigs/twig.json"
+hash = "d838038c86dfaa40e87e4e9bf3602728e6dbe0957a01a10774ca2004c5688533"
+
+[[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/drink_hot_drink.mcfunction"
 hash = "9fb8cca526c7be6ca355306812f9d801f0c519844d45d3ff991195cd59da5c54"
 
