@@ -185,6 +185,26 @@ file = "config/winterly.json"
 hash = "090edc1d41c3086d47011b2604f613c31f1bec18f28cb1a98667fca0099cce8b"
 
 [[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/farmersdelight/weapon_attributes/diamond_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/farmersdelight/weapon_attributes/flint_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/farmersdelight/weapon_attributes/golden_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/farmersdelight/weapon_attributes/iron_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/farmersdelight/weapon_attributes/netherite_knife.json"
+hash = "580d53dc9834c51a7179102ada8c4ddbb0effcc9ad44a3dd6e7c53b3a6a98481"
+
+[[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/frostiful/frostiful/item_attribute_modifiers/santa/santa_boots.json"
 hash = "d30e02477055f8d3f281d6342902f8d8ec9e23216d38aa6eee2d0c568ad97839"
 
