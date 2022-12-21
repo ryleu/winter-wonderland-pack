@@ -325,12 +325,16 @@ file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snow
 hash = "1586a8838c18fbf04fb2dd25975e229d2574efa05a147e97d6336980bf9ecc5a"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/twigs/twig.json"
-hash = "d838038c86dfaa40e87e4e9bf3602728e6dbe0957a01a10774ca2004c5688533"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/drink_coffee.mcfunction"
+hash = "eb36268e1972f41ec0a220147c1cb6d9227ac61f07a5741675e73adec36df00b"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/drink_hot_chocolate.mcfuntion"
+hash = "7393806dbe79b7392d43f1ac03767b9b32dfa5ffbe781242ef51e2134f8ed7eb"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/drink_hot_drink.mcfunction"
-hash = "9fb8cca526c7be6ca355306812f9d801f0c519844d45d3ff991195cd59da5c54"
+hash = "a6f92c9ebd4d2b578d446bbb62504fd8bc7bac8fb7273ab49a174bf0779122d0"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/load.mcfunction"
@@ -338,7 +342,7 @@ hash = "2494e03b208cba4c248016fe5ae865f646cef57bc430508043d00ecbf934ba77"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/tick.mcfunction"
-hash = "6d59030c7e1b87cdc7d279ee74a473588e0c7460aa4b217f5286bc63cfa5bd60"
+hash = "9fe02f49593189333dd5b463f13b99d60376b31b0c9ce84c1cf0e05091e00b17"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/frostiful_to_winterly_icicles.json"
