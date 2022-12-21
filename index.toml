@@ -518,6 +518,11 @@ hash = "f52293cc81b07666eeee3bfcf5f34039e2d2bc64cd22416b5cbdb554eec17a0e"
 metafile = true
 
 [[files]]
+file = "mods/enchanting-infuser.pw.toml"
+hash = "94efd0b922d000ee1418ee8a44e414fe77535b18261f3ad6e1b6f11b8402126e"
+metafile = true
+
+[[files]]
 file = "mods/entity-collision-fps-fix.pw.toml"
 hash = "d614e471929c4906f85ba776600e0cfa9b0d958ce55121efd49c9ffd4ff00a04"
 metafile = true
@@ -555,6 +560,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
+metafile = true
+
+[[files]]
+file = "mods/forge-config-api-port.pw.toml"
+hash = "63abc798591351fddc8069cf92991ffe6e058f939e259a27d284270e835e9530"
 metafile = true
 
 [[files]]
@@ -705,6 +715,11 @@ metafile = true
 [[files]]
 file = "mods/presence-footsteps.pw.toml"
 hash = "137460be130a91349243be497e0e33f61d8631d271a1d420cbb37e4ddfd6ab62"
+metafile = true
+
+[[files]]
+file = "mods/puzzles-lib.pw.toml"
+hash = "0568443a68c429253e10bee7655f0baf669f1fd8dd06b39cb83423f6c522cadc"
 metafile = true
 
 [[files]]
