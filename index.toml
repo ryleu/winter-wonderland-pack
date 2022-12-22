@@ -826,11 +826,6 @@ hash = "2aeab4f3b0a720ed02f400d9b521f1858474d4f8f7c3577ce916d5aa31fe37e1"
 metafile = true
 
 [[files]]
-file = "mods/tabtps.pw.toml"
-hash = "689bf94d0ad4ba52a7cfab340152abbf1bdc14151c22fc882b9f1cded48e0048"
-metafile = true
-
-[[files]]
 file = "mods/toms-storage.pw.toml"
 hash = "4d817fb45630a8ea31f6f37ea93eacfdfd30cc8281f8cf4f93a039da4cea988e"
 metafile = true
