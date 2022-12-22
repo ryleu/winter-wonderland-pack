@@ -345,6 +345,10 @@ file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/wint
 hash = "9fe02f49593189333dd5b463f13b99d60376b31b0c9ce84c1cf0e05091e00b17"
 
 [[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/cobble_to_pebbles.json"
+hash = "b3dc8054fa67de665ba1d874470b24a0b17629e866373fca5291a9ec199a20ce"
+
+[[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/frostiful_to_winterly_icicles.json"
 hash = "d590f3575d6cec4019caeb8c708e07830b0c34075ea3611e4a547bbb9ebb246d"
 
