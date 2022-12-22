@@ -1,0 +1,13 @@
+name = "Sfreeze"
+filename = "sfreeze-1.0.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Rket20V4/versions/fetaBDp5/sfreeze-1.0.2.jar"
+hash-format = "sha1"
+hash = "5eb81465facf927ccbda4f9ab2975aa8d40b813b"
+
+[update]
+[update.modrinth]
+mod-id = "Rket20V4"
+version = "fetaBDp5"

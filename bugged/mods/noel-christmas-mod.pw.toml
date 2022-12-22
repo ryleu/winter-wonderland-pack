@@ -1,0 +1,13 @@
+name = "❄️NOEL - A Christmas Mod❄️"
+filename = "noel_FABRIC_1.5.3.jar"
+side = "both"
+
+[download]
+hash-format = "sha1"
+hash = "9ff192671b2f55bd2ffdddda26e46623a89df4b1"
+mode = "metadata:curseforge"
+
+[update]
+[update.curseforge]
+file-id = 4126358
+project-id = 254455

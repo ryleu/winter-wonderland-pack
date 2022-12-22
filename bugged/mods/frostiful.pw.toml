@@ -1,0 +1,13 @@
+name = "Frostiful"
+filename = "frostiful-0.2.5.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/Ae6qoBj3/versions/JJ6dCQJd/frostiful-0.2.5.jar"
+hash-format = "sha1"
+hash = "59c8236d7cee675ca602ebc04e46f27b83c738d2"
+
+[update]
+[update.modrinth]
+mod-id = "Ae6qoBj3"
+version = "JJ6dCQJd"
