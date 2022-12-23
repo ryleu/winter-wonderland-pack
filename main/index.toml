@@ -488,6 +488,11 @@ hash = "213cad77d46ff46fe20780b01856cb1a8812747e9c3564203669bf3905e646e2"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "e5f39c4532d249a052f38f86d5ed31decda80e191f42ca1fa5b1b2ceefcd6b02"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
 metafile = true
@@ -583,6 +588,16 @@ hash = "09d635b9f474d64c10a0489f9b208d69b9e5e686ed62b8a7602bbb04fe7baf2c"
 metafile = true
 
 [[files]]
+file = "mods/galosphere.pw.toml"
+hash = "e01465d529f5f8f94f641930ab7e872308eab9d554037f6eb43eaf212cf66c7b"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c04bd6360ba1f3a7fbf85926cdb7ea052b7da0e57e47e3220a772817e93a36e9"
+metafile = true
+
+[[files]]
 file = "mods/globalpacks.pw.toml"
 hash = "d95e508337c913a6f339f08f8cb34a6b2500959204f7e742c49e26f93e0a8060"
 metafile = true
@@ -663,6 +678,11 @@ hash = "9421355a24881292851803d45726a5aebce4c5a5863793d7d373565b4fceb1eb"
 metafile = true
 
 [[files]]
+file = "mods/minecells.pw.toml"
+hash = "4c9bf564e2b402df2e528fd85734e7a7614a2b6605c09aa25b6b1ab432de0b60"
+metafile = true
+
+[[files]]
 file = "mods/mixintrace.pw.toml"
 hash = "b89656eaf7e4404d8d2c5b1e1155aae85a839939f83cab6d1b5e791412ad5f86"
 metafile = true
@@ -680,6 +700,11 @@ metafile = true
 [[files]]
 file = "mods/moonlight.pw.toml"
 hash = "eb6ad65bc55853f87bbd72085e690fd914318b94e3108bb6583b8da4363f480b"
+metafile = true
+
+[[files]]
+file = "mods/naturally-charged-creepers.pw.toml"
+hash = "9874f58d9171f9724511ed233c37fcea9f7422c065a2b83a6000394f6bd6f714"
 metafile = true
 
 [[files]]
@@ -705,6 +730,11 @@ metafile = true
 [[files]]
 file = "mods/not-enough-animations.pw.toml"
 hash = "17dc4f0920a4089790c8d13abff319a5e83f2aea7a06cdd3cc79699fa5ccdc8a"
+metafile = true
+
+[[files]]
+file = "mods/nyfs-spiders.pw.toml"
+hash = "d02faadb0665db5f148eb7a5bcb817221a139b42d1437231e1def2f06a452bce"
 metafile = true
 
 [[files]]
@@ -745,6 +775,11 @@ metafile = true
 [[files]]
 file = "mods/qu-enchantments.pw.toml"
 hash = "ceb9b6f4e501a207be1a577072158628b82eb579da26fe1d3593ab539186dcb4"
+metafile = true
+
+[[files]]
+file = "mods/rats-mischief.pw.toml"
+hash = "b0da1f56d9d037a5edb8b837bbf5a7dafb7679f42a9a2bd7865bbb2d4fad57b1"
 metafile = true
 
 [[files]]
@@ -850,6 +885,11 @@ metafile = true
 [[files]]
 file = "mods/yacl.pw.toml"
 hash = "afc5f3bf4cae41e848070a109287bc6607c2f46045fc452da5d43189358adcb6"
+metafile = true
+
+[[files]]
+file = "mods/zombie-horse-spawn.pw.toml"
+hash = "b415cc69fc90f108f81002cd4aa0bdd303436266e835a81587bbacc5a3ac6917"
 metafile = true
 
 [[files]]
