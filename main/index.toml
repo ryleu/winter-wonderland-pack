@@ -169,16 +169,8 @@ file = "config/sodium-mixins.properties"
 hash = "051558518a6f3350fadb1546346d937e7f78f69834a075bf91b59921f151cc26"
 
 [[files]]
-file = "config/tr7zwDonorSettings.json"
-hash = "00c5704f0bf0b89f14d7b8eba4eeb38199bc760f4d00dd78a2c2bcf32747c009"
-
-[[files]]
 file = "config/twigs/twigs_world_gen_replacements.json"
 hash = "e9d95c9d11d7a48b95e085a8001ce0c7252e34abe6a7d1fae4a219bebf1f24e1"
-
-[[files]]
-file = "config/waterdripsound.json"
-hash = "e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855"
 
 [[files]]
 file = "config/winterly.json"
@@ -428,6 +420,11 @@ metafile = true
 [[files]]
 file = "mods/betterf3.pw.toml"
 hash = "e8cd685b609577ab23e2a55ec3273a1ff9475daef52f0999b2c5d27f7c795f5c"
+metafile = true
+
+[[files]]
+file = "mods/bits-and-chisels.pw.toml"
+hash = "e7d7b42cc3b56d79d18599f936742b711f849b372ca4b6106a5d00d624573d59"
 metafile = true
 
 [[files]]
