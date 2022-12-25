@@ -245,6 +245,10 @@ file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/qu-e
 hash = "59f0b79c715ad5426c65995982bc69908c9c47a64da6d7dc6a461580e9b7334b"
 
 [[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/ratsmischief/recipes/leather_rat_pouch.json"
+hash = "ea0e0c6b06e72464cc2be1ae9a470bb692ea3dc282b05710c9babbfd5bd475ef"
+
+[[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/candy_cane.json"
 hash = "6578571b879eea9475d3c86fd1690f1116bcff538c83b4c54fe65969a855a632"
 
