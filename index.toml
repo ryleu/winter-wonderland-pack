@@ -929,6 +929,16 @@ hash = "6ec1e483b01e1feb7bb64f2f017bfd0f8a28b48a863b0c325ab7c78c86b9e2ad"
 metafile = true
 
 [[files]]
+file = "mods/delightful-froge.pw.toml"
+hash = "b73afcd78c08f4062c4be7e113f91764cd9fa8934f2a12f3202b43e84d3d1cda"
+metafile = true
+
+[[files]]
+file = "mods/despawning-eggs-hatch.pw.toml"
+hash = "fec29880f8462df1e2964f09815c75f3903f2c038879640dc39c92f537eb7548"
+metafile = true
+
+[[files]]
 file = "mods/dripsounds-fabric.pw.toml"
 hash = "285da02342eee9622e3d2245212165c0563103d1ed54a03d485fa6939cf0b571"
 metafile = true
@@ -1079,8 +1089,18 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
+file = "mods/lil-wings.pw.toml"
+hash = "d55ac52904f31ca683109a7c373f70b487c1b46e6215bb1e01424bbc6271b135"
+metafile = true
+
+[[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
+metafile = true
+
+[[files]]
+file = "mods/manure.pw.toml"
+hash = "2c83e009fb677b314bba13d9c5ae8cccafb305f69b1f8fb5cc7063d88bcd9bae"
 metafile = true
 
 [[files]]
@@ -1161,6 +1181,11 @@ metafile = true
 [[files]]
 file = "mods/owo-lib.pw.toml"
 hash = "d6a99e144be13fb3d0865925bf73357a2ff82f4114929cc2f35930eb21f3c7e9"
+metafile = true
+
+[[files]]
+file = "mods/patchouli.pw.toml"
+hash = "2dab4b3cea2f1ce1505c3c7be55d8fb6123a7593435134f2c15eed18e6c07ddf"
 metafile = true
 
 [[files]]
