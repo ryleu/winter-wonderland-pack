@@ -334,7 +334,7 @@ hash = "2494e03b208cba4c248016fe5ae865f646cef57bc430508043d00ecbf934ba77"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/functions/tick.mcfunction"
-hash = "1190a3a56f64ab849c54d6958aaf13bc0187dc877bc15721f9cfc998c05d6f23"
+hash = "ec421abda1dc1045a8c50dc23b0e13983b6e8eee8724e86653edef28c340a3cf"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/cobble_to_pebbles.json"
