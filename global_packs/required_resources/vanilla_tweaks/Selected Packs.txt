@@ -1,0 +1,16 @@
+Vanilla Tweaks Resource Pack
+Version: 1.19
+Packs:
+	HDShieldBanners
+	UniqueDyes
+	BetterBedrock
+	StickyPistonSides
+	ClearBannerPatterns
+	BetterObservers
+	DirectionalDispensersDroppers
+	DirectionalHoppers
+	LowerFire
+	PingColorIndicator
+	WitherHearts
+	SnowBG
+	NicerFastLeaves
