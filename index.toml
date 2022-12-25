@@ -1089,11 +1089,6 @@ hash = "b4ca05b39b85c27cd97ccb65d5fb832f5e9fd7ee5710542a3e69dfa30a97ea7d"
 metafile = true
 
 [[files]]
-file = "mods/lil-wings.pw.toml"
-hash = "d55ac52904f31ca683109a7c373f70b487c1b46e6215bb1e01424bbc6271b135"
-metafile = true
-
-[[files]]
 file = "mods/lithium.pw.toml"
 hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
