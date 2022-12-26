@@ -1,0 +1,13 @@
+name = "Simple Chunkloader [FABRIC]"
+filename = "simplechunkloader-1.0.2-1.19.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/J30flQVA/versions/1.0.2/simplechunkloader-1.0.2-1.19.jar"
+hash-format = "sha1"
+hash = "518456c586e6237996df5f3d9daaf3c283748c9f"
+
+[update]
+[update.modrinth]
+mod-id = "J30flQVA"
+version = "sKhtovSu"
