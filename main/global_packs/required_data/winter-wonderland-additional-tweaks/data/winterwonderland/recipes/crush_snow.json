@@ -1,0 +1,15 @@
+{
+	"type": "create:crushing",
+    "ingredients": [
+    	{
+    		"item": "minecraft:snow"
+    	}
+    ],
+	"results": [
+		{
+			"item": "minecraft:snowball",
+			"count": 2
+		}
+	],
+	"processingTime": 50
+}

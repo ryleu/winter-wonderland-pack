@@ -349,6 +349,10 @@ file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/wint
 hash = "b3dc8054fa67de665ba1d874470b24a0b17629e866373fca5291a9ec199a20ce"
 
 [[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/crush_snow.json"
+hash = "80ff2b74d44083d9c0f9d5e77d78ec40043224561e193ec1b66f22bcf1ae6478"
+
+[[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/frostiful_to_winterly_icicles.json"
 hash = "d590f3575d6cec4019caeb8c708e07830b0c34075ea3611e4a547bbb9ebb246d"
 
@@ -788,6 +792,11 @@ hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
 metafile = true
 
 [[files]]
+file = "mods/annotated-di.pw.toml"
+hash = "a472dd8483680a2db156202f4fa2e7e07c08dbc454a504c3f2cb559658092608"
+metafile = true
+
+[[files]]
 file = "mods/appleskin.pw.toml"
 hash = "4d571d5ebe245ffb62a0df83e81d1c03670807d3528650d6dd9c983bd26ae860"
 metafile = true
@@ -1008,6 +1017,11 @@ hash = "98da553a1ba2d41bfce3585198641c2d927c702d5403ebec82402ae51ddf707f"
 metafile = true
 
 [[files]]
+file = "mods/fireplace-lib.pw.toml"
+hash = "b560d826e84582158fa66d039531cf71511af996a7dc028491924e46866d7577"
+metafile = true
+
+[[files]]
 file = "mods/forge-config-api-port.pw.toml"
 hash = "63abc798591351fddc8069cf92991ffe6e058f939e259a27d284270e835e9530"
 metafile = true
@@ -1180,6 +1194,11 @@ metafile = true
 [[files]]
 file = "mods/ok-zoomer.pw.toml"
 hash = "67e52f1d24affe5295829b38769d1181fb147c4ebc86531fce0fae2d1549ef9a"
+metafile = true
+
+[[files]]
+file = "mods/overlord.pw.toml"
+hash = "e9d290ee09b51053d2169dac3f058aa8dfe6ffe054c86780cbf2ad0aebac68aa"
 metafile = true
 
 [[files]]
