@@ -1,0 +1,13 @@
+name = "Item Alchemy"
+filename = "itemalchemy-0.2.8.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/cfQx2fbQ/versions/OO6xyW4p/itemalchemy-0.2.8.jar"
+hash-format = "sha1"
+hash = "b4eb749dcd1d16a420ae57c1b6ec3577a350f304"
+
+[update]
+[update.modrinth]
+mod-id = "cfQx2fbQ"
+version = "OO6xyW4p"
