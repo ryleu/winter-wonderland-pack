@@ -1082,8 +1082,18 @@ hash = "d4f85fc72da9cf35b73a202df5b2ac94fa6649bff03081111abfa3080e315969"
 metafile = true
 
 [[files]]
+file = "mods/invview.pw.toml"
+hash = "7cfacba402f52a71096bda72ede806b9b6964c2c807019da76f4e27fa839c8a5"
+metafile = true
+
+[[files]]
 file = "mods/iris.pw.toml"
 hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
+metafile = true
+
+[[files]]
+file = "mods/item-alchemy.pw.toml"
+hash = "27e87087102d1f03db60b9d5c311972c4ddfe0300cdb4c729e89ccd2b118a428"
 metafile = true
 
 [[files]]
@@ -1119,6 +1129,11 @@ metafile = true
 [[files]]
 file = "mods/manure.pw.toml"
 hash = "2c83e009fb677b314bba13d9c5ae8cccafb305f69b1f8fb5cc7063d88bcd9bae"
+metafile = true
+
+[[files]]
+file = "mods/mcpitanlibarch.pw.toml"
+hash = "00d94b6682b4301e32bb120e1b67d739035e0bf8cc8a0c877430a5ff058f691e"
 metafile = true
 
 [[files]]
