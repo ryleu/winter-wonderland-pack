@@ -1,0 +1,13 @@
+name = "Overlord"
+filename = "Overlord-Fabric-3.2.3+1.19.2.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HPV4V5CV/versions/NltGlTk9/Overlord-Fabric-3.2.3%2B1.19.2.jar"
+hash-format = "sha1"
+hash = "4fbea9d9fee3584b9790d68da363ff55f377a5b4"
+
+[update]
+[update.modrinth]
+mod-id = "HPV4V5CV"
+version = "NltGlTk9"
