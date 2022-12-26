@@ -249,6 +249,10 @@ file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/rats
 hash = "ea0e0c6b06e72464cc2be1ae9a470bb692ea3dc282b05710c9babbfd5bd475ef"
 
 [[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/simplechunkloader/recipes/chunkloader.json"
+hash = "7d83e23b39df0097f5d158ccbe9d17cb2041af8c5f0379eb8e8bb1ad9e2fe217"
+
+[[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/snowyspirit/recipes/candy_cane.json"
 hash = "6578571b879eea9475d3c86fd1690f1116bcff538c83b4c54fe65969a855a632"
 
@@ -769,11 +773,6 @@ file = "global_packs/required_resources/vanilla_tweaks/pack.png"
 hash = "57ac558151849b9969a2d2e991f0a5e4d734548e9369f5c1c539b63004c0f08f"
 
 [[files]]
-file = "mods/3dskinlayers.pw.toml"
-hash = "fbad3ce2bcab1b8a73a541000100dc5ed3323bcf571e4e2a4a3c28db5c520509"
-metafile = true
-
-[[files]]
 file = "mods/adorn.pw.toml"
 hash = "d930cef1a8fac8f24ae0bd3b1f0fc07781f9a1a8c68ef1464d5ffe1b51af7f6e"
 metafile = true
@@ -866,6 +865,11 @@ metafile = true
 [[files]]
 file = "mods/cardinal-components-api.pw.toml"
 hash = "5d898bbdb655828c59223382f85016f8328884b3ff176b697c51e8dedaec68c1"
+metafile = true
+
+[[files]]
+file = "mods/cave-enhancements.pw.toml"
+hash = "64861973d33a1cb44b1ab044001169fcd4302fb7ed80ce35ad576ab4ae1171c1"
 metafile = true
 
 [[files]]
@@ -991,6 +995,11 @@ metafile = true
 [[files]]
 file = "mods/farmers-delight-fabric.pw.toml"
 hash = "b8d91a91ac8820ed7c99c12636c7de0a3e93ef825c1925d4a9287b443cd65f92"
+metafile = true
+
+[[files]]
+file = "mods/female-gender.pw.toml"
+hash = "914665452a59785158b78fc3ccea1ede079768ee908888237880ec033c5b1216"
 metafile = true
 
 [[files]]
@@ -1246,6 +1255,11 @@ metafile = true
 [[files]]
 file = "mods/sfreeze.pw.toml"
 hash = "84183c4114749dd504581061775d5bb4e2126c26eb733bec503b1ace6044031d"
+metafile = true
+
+[[files]]
+file = "mods/simple-chunkloader-fabric.pw.toml"
+hash = "6ab8a916f100c5ba873d0c66bfb303fb7c031bc67d1a717059d44edebdc09493"
 metafile = true
 
 [[files]]

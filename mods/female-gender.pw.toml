@@ -1,0 +1,13 @@
+name = "Wildfire's Female Gender Mod - Fabric & Forge"
+filename = "Female-Gender-Mod-fabric-1.19-3.0.0.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/bcOsQHnC/versions/3.0.0-1.19-fabric/Female-Gender-Mod-fabric-1.19-3.0.0.jar"
+hash-format = "sha1"
+hash = "4ffec83d144e7ae2dad1434344f040c32857a6ad"
+
+[update]
+[update.modrinth]
+mod-id = "bcOsQHnC"
+version = "AgkDJuiX"

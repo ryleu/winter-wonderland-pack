@@ -1,0 +1,26 @@
+{
+    "type": "minecraft:crafting_shaped",
+    "pattern": [
+        " S ",
+        "DND",
+        "OOO"
+    ],
+    "key": {
+        "N": {
+            "item": "minecraft:netherite_ingot"
+        }, 
+        "O": {
+            "item": "minecraft:obsidian"
+        }, 
+        "D": {
+            "item": "minecraft:diamond"
+        },
+        "S": {
+            "item": "minecraft:nether_star"
+        }
+    },
+    "result": {
+        "item": "simplechunkloader:chunkloader",
+        "count": 1
+    }
+}
