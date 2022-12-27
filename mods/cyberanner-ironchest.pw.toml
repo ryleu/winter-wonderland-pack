@@ -1,0 +1,13 @@
+name = "Iron Chests"
+filename = "IronChests-1.7.7.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/7mHyGgvW/versions/YeqaK7r4/IronChests-1.7.7.jar"
+hash-format = "sha1"
+hash = "5499246a773e00cd3acbd57bf54b28ba4b8c1281"
+
+[update]
+[update.modrinth]
+mod-id = "7mHyGgvW"
+version = "YeqaK7r4"
