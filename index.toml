@@ -1092,11 +1092,6 @@ hash = "b6567c077d73ed0956dcd849e5875ada50435322cddc1b7db9595a6884ef5a08"
 metafile = true
 
 [[files]]
-file = "mods/item-alchemy.pw.toml"
-hash = "27e87087102d1f03db60b9d5c311972c4ddfe0300cdb4c729e89ccd2b118a428"
-metafile = true
-
-[[files]]
 file = "mods/kiwi.pw.toml"
 hash = "90f3e53b8e7d850b8177d38a728592ef9359715f98ba1ab683b87c3198aad329"
 metafile = true
