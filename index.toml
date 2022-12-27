@@ -1257,11 +1257,6 @@ hash = "b0da1f56d9d037a5edb8b837bbf5a7dafb7679f42a9a2bd7865bbb2d4fad57b1"
 metafile = true
 
 [[files]]
-file = "mods/replaymod.pw.toml"
-hash = "04f8f8b903ea1b32de55cada48745016ea4c3ab7667a01f26ddf051b2efd731e"
-metafile = true
-
-[[files]]
 file = "mods/repurposed-structures-fabric.pw.toml"
 hash = "af0e46a40167fe12c8621a6cbd0281d2e6168e95507c5e94fd3d4eaa88f8d84e"
 metafile = true
