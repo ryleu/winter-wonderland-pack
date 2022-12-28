@@ -800,6 +800,11 @@ hash = "65b0ccc80e7bb51344fc138cfe952a6c9cfea23db0282a8852799be0cca29b85"
 metafile = true
 
 [[files]]
+file = "mods/amethyst-imbuement.pw.toml"
+hash = "aeb1c230af17c82579dcc7eaa4861f3253626c3dfbff65448e8661cfb7dd152b"
+metafile = true
+
+[[files]]
 file = "mods/annotated-di.pw.toml"
 hash = "a472dd8483680a2db156202f4fa2e7e07c08dbc454a504c3f2cb559658092608"
 metafile = true
@@ -1135,6 +1140,16 @@ hash = "77e9a02e09ec5a0d6682e5f448953048d99e36da299d92627044aff0828798e3"
 metafile = true
 
 [[files]]
+file = "mods/macaws-paintings.pw.toml"
+hash = "ceecc79a1a61c443371d333ea6c7dd8c87e0e0b4bd96d3d8848beb6d377052fd"
+metafile = true
+
+[[files]]
+file = "mods/macaws-windows.pw.toml"
+hash = "5ee8fe6018c7ad0fba0a3aa434aae95c7c3aee860f14262276459c4cfbbde17c"
+metafile = true
+
+[[files]]
 file = "mods/manure.pw.toml"
 hash = "2c83e009fb677b314bba13d9c5ae8cccafb305f69b1f8fb5cc7063d88bcd9bae"
 metafile = true
@@ -1297,6 +1312,11 @@ metafile = true
 [[files]]
 file = "mods/sfreeze.pw.toml"
 hash = "84183c4114749dd504581061775d5bb4e2126c26eb733bec503b1ace6044031d"
+metafile = true
+
+[[files]]
+file = "mods/show-me-your-skin.pw.toml"
+hash = "a49036d05fefdf607d4e2365a1bfb29712e69acf2fbe12729491646d981392c1"
 metafile = true
 
 [[files]]
