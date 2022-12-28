@@ -345,8 +345,8 @@ file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/wint
 hash = "3281ce59eb28abc0c17f817f4a9218a558734f82b99061988748a1d9acf0c1cb"
 
 [[files]]
-file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/coarse_dirt_to_dirt.json"
-hash = "b3c024c07ea427cb7551966a154da053f9cef6feca64cf6a7ef1dfbfbac3fcbe"
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/coarse_dirt_crushing.json"
+hash = "f3afac5c5daf0b1f97662cb69aa660ed1ed5adf04400d0ee0af910983c850ab8"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/cobble_to_pebbles.json"

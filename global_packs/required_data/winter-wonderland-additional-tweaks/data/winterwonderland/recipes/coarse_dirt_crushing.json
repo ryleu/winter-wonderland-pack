@@ -1,0 +1,15 @@
+{
+    "type": "create:crushing",
+	"ingredients": [
+		{
+			"item": "minecraft:coarse_dirt"
+		}
+	],
+    "results": [
+        {
+            "item": "minecraft:dirt",
+            "count": 1
+        }
+    ],
+    "processingTime": 150
+}
