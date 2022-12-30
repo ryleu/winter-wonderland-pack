@@ -1150,11 +1150,6 @@ hash = "5ee8fe6018c7ad0fba0a3aa434aae95c7c3aee860f14262276459c4cfbbde17c"
 metafile = true
 
 [[files]]
-file = "mods/manure.pw.toml"
-hash = "2c83e009fb677b314bba13d9c5ae8cccafb305f69b1f8fb5cc7063d88bcd9bae"
-metafile = true
-
-[[files]]
 file = "mods/mcpitanlibarch.pw.toml"
 hash = "00d94b6682b4301e32bb120e1b67d739035e0bf8cc8a0c877430a5ff058f691e"
 metafile = true
