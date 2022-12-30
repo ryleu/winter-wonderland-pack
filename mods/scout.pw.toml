@@ -1,0 +1,13 @@
+name = "Scout"
+filename = "scout-1.19-1.1.1.jar"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/QRYqnI15/versions/4Wdm98Cw/scout-1.19-1.1.1.jar"
+hash-format = "sha1"
+hash = "8ede4ac84e3a8545d0c060b8bb78ca85e3d25644"
+
+[update]
+[update.modrinth]
+mod-id = "QRYqnI15"
+version = "4Wdm98Cw"
