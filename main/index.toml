@@ -50,7 +50,7 @@ hash = "f7e7f346e0724cf9cfb77f44dec2e7d202ea2507729ec7b95ee6a8f089c82982"
 
 [[files]]
 file = "config/charm.toml"
-hash = "db8abe7fd379fc1e3346fa13fc8e9a2de6f4bcf83e0ac75eedf3519b25a58037"
+hash = "1180a711196ffa76f38c32dc5c910e7c12ab2baecfa61429591b90520b0855ef"
 
 [[files]]
 file = "config/charmonium.toml"
@@ -363,6 +363,10 @@ hash = "80ff2b74d44083d9c0f9d5e77d78ec40043224561e193ec1b66f22bcf1ae6478"
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/frostiful_to_winterly_icicles.json"
 hash = "d590f3575d6cec4019caeb8c708e07830b0c34075ea3611e4a547bbb9ebb246d"
+
+[[files]]
+file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/name_tag.json"
+hash = "20f03a24cf25be656a3cbe0e3fbdefe081d69069d47ec9ee471e3a0aef48dbc7"
 
 [[files]]
 file = "global_packs/required_data/winter-wonderland-additional-tweaks/data/winterwonderland/recipes/winterly_to_frostiful_icicles.json"
@@ -802,6 +806,11 @@ metafile = true
 [[files]]
 file = "mods/amethyst-imbuement.pw.toml"
 hash = "aeb1c230af17c82579dcc7eaa4861f3253626c3dfbff65448e8661cfb7dd152b"
+metafile = true
+
+[[files]]
+file = "mods/animal_feeding_trough.pw.toml"
+hash = "4622fb45626c72f5310606c9db18271e18a195cf7ef57707287039dd9f81a299"
 metafile = true
 
 [[files]]
