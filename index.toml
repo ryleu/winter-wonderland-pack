@@ -939,6 +939,11 @@ hash = "e5f39c4532d249a052f38f86d5ed31decda80e191f42ca1fa5b1b2ceefcd6b02"
 metafile = true
 
 [[files]]
+file = "mods/craft-slabs-back-into-blocks.pw.toml"
+hash = "fe6946b960e15edcfa157894fd3a0470323e52218eee6b802ea0f1768a8157de"
+metafile = true
+
+[[files]]
 file = "mods/create-fabric.pw.toml"
 hash = "b6d88ec0e940243d228316c8b3a186c4bb5024e8dba627c88bdc29f93bf7e31b"
 metafile = true
