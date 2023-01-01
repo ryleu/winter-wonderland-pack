@@ -1,13 +1,13 @@
 name = "Complementary Shaders v4"
-filename = "ComplementaryShaders_v4.6.zip"
+filename = "ComplementaryShaders_v4.7_pre1.zip"
 side = "client"
 
 [download]
 hash-format = "sha1"
-hash = "42274da3fe2cd1847ff14a7699b411172cf3025d"
+hash = "f308b1fb3eea3557b4bab61ec4afec47d905f285"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3951170
+file-id = 4279382
 project-id = 385587
